@@ -5,8 +5,8 @@ This is the **backend** of an e-commerce cart system built with **NestJS** and *
 ---
 
 ## 🚀 Features
-- 🛍 **Cart Management**: get, Create, update, and delete cart items.  
-- 📦 **Product Management**: get, Create, update, and delete products.    
+- 🛍 **Cart Management**: Endpoints to Get, create, update, and delete cart.  
+- 📦 **Product Management**: Endpoints to get, create, update, and delete products.    
 - 📡 **REST API**: Can be configured to use either REST.  
 - 💾 **MongoDB with Mongoose**: Stores cart and product data efficiently.  
 
