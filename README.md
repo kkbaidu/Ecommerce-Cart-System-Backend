@@ -41,6 +41,6 @@ PORT=3000
 ### 4️⃣ Run the Server
 ```sh
 npm run start:dev
-// The nestjs app will start on **`http://localhost:3000`**.
+# The nestjs app will start on **`http://localhost:3000`**.
 ```
 
