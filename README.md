@@ -24,6 +24,23 @@ This is the **backend** of an e-commerce cart system built with **NestJS** and *
 ```sh
 git clone https://github.com/kkbaidu/Ecommerce-Cart-System-Backend
 cd Ecommerce-Cart-System-Backend
-npm install
-npm run start:dev
 ```
+
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Set Up Environment Variables  
+Create a **`.env`** file in the root directory and configure the following:
+```sh
+MONGODB_URI=mongodb://localhost/nest
+PORT=3000
+```
+
+### 4️⃣ Run the Server
+```sh
+npm run start:dev
+// The backend will start on **`http://localhost:3000`**.
+```
+
